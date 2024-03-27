@@ -1,3 +1,12 @@
+# Proyecto desarrollado con Flutter
+
+
+[![Alt text](https://firebasestorage.googleapis.com/v0/b/magicimageai-4k-faceswapai.appspot.com/o/imagen_2024-03-27_154730862.png?alt=media&token=cfb806db-d4af-4878-bb4d-eb0e0fe63153)](https://www.youtube.com/shorts/U3JxlSUR-wI)
+
+
+
+
+
 # Prueba técnica para Desarrolladores Front-End Juniors - Limbo
 
 ¡Hola!
@@ -33,13 +42,7 @@ Una vez que hayas completado la prueba, por favor, envíanos a <space@limboteams
 ## Notas finales
 
 Recuerda que esta prueba no solo es una oportunidad para demostrar tus habilidades técnicas, sino también tu creatividad y capacidad para resolver problemas. Queremos que te sientas cómodo durante el proceso, así que ¡adelante, diviértete y buena suerte!
-
-# Proyecto desarrollado con Flutter
-
-
-[![Alt text](https://www.youtube.com/shorts/U3JxlSUR-wI/0.jpg)](https://www.youtube.com/shorts/U3JxlSUR-wI)
 Si tienes alguna pregunta o inquietud, no dudes en ponerte en contacto con nosotros. ¡Estamos para ayudarte!
-
 ¡Gracias y que tengas un excelente desarrollo!
 
 Atentamente,
