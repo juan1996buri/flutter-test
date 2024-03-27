@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "Calabresa",
+    "country_origin": "England",
+    "price": "$6.54",
+    "image": "https://www.lacademie.com/wp-content/uploads/2022/03/thick-crusts-pizza.webp",
+    "tags": "tag6"
+  },
+  {
+    "id": null,
+    "name": "Napolitana",
+    "country_origin": "Italia",
+    "price": "$48.47",
+    "image": "https://anoumanzer.com/upload/tmp/2023-01/10/2-5671a6b8f03cc6620d0ae5500ff55ae0.jpg",
+    "tags": null
+  },
+  {
+    "id": 3,
+    "name": "Rellena",
+    "country_origin": null,
+    "price": null,
+    "image": "https://www.lacademie.com/wp-content/uploads/2022/03/stuffed-pizza.webp",
+    "tags": "tag7"
+  },
+  {
+    "id": null,
+    "name": "Griega",
+    "country_origin": null,
+    "price": null,
+    "image": "https://www.lacademie.com/wp-content/uploads/2022/03/greek-pizza.webp",
+    "tags": "tag4"
+  },
+  {
+    "id": 5,
+    "name": "Romana",
+    "country_origin": "United States",
+    "price": "$35.42",
+    "image": "https://www.lacademie.com/wp-content/uploads/2022/03/roman-pizza.webp",
+    "tags": "tag3"
+  },
+  {
+    "id": 6,
+    "name": "Desayuno",
+    "country_origin": "Italia",
+    "price": null,
+    "image": "https://www.lacademie.com/wp-content/uploads/2022/03/breakfast-pizza.webp",
+    "tags": "tag3"
+  },
+  {
+    "id": 7,
+    "name": "Bagel",
+    "country_origin": "Argentina",
+    "price": "$38.84",
+    "image": null,
+    "tags": "tag9"
+  },
+  {
+    "id": 8,
+    "name": "Grandma",
+    "country_origin": "England",
+    "price": "$40.24",
+    "image": "https://www.lacademie.com/wp-content/uploads/2022/03/grandma-pizza.webp",
+    "tags": "tag7"
+  },
+  {
+    "id": 9,
+    "name": "New haven",
+    "country_origin": "Canada",
+    "price": null,
+    "image": "https://www.lacademie.com/wp-content/uploads/2022/03/new-haven-pizza.webp",
+    "tags": null
+  },
+  {
+    "id": 13,
+    "name": "Doreen",
+    "country_origin": null,
+    "price": "$34.81",
+    "image": null,
+    "tags": "tag3"
+  },
+  {
+    "id": 14,
+    "name": "Delmar",
+    "country_origin": null,
+    "price": "$13.37",
+    "image": "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_570541132.jpg.optimal.jpg",
+    "tags": "tag4"
+  },
+  {
+    "id": 15,
+    "name": "Hawaii",
+    "country_origin": "Italia",
+    "price": "$33.66",
+    "image": "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_313437680.jpg.optimal.jpg",
+    "tags": "tag9"
+  },
+  {
+    "id": 16,
+    "name": "Jamón",
+    "country_origin": "Argentina",
+    "price": "$16.19",
+    "image": null,
+    "tags": "tag9"
+  },
+  {
+    "id": null,
+    "name": "Meat",
+    "country_origin": null,
+    "price": "$35.43",
+    "image": "https://www.ezcater.com/lunchrush/wp-content/uploads/sites/2/2017/10/shutterstock_548340295.jpg.optimal.jpg",
+    "tags": "tag9"
+  },
+  {
+    "id": 18,
+    "name": "Stan",
+    "country_origin": "Argentina",
+    "price": null,
+    "image": null,
+    "tags": "tag3"
+  },
+  {
+    "id": 19,
+    "name": "Margarita",
+    "country_origin": "Italia",
+    "price": null,
+    "image": "https://anoumanzer.com/upload/tmp/2023-01/10/2-8cdd4a3764529e5933d8cba1c42feef0.jpg",
+    "tags": "tag3"
+  },
+  {
+    "id": 20,
+    "name": "Buffalo",
+    "country_origin": "United States",
+    "price": null,
+    "image": "https://anoumanzer.com/upload/tmp/2023-01/10/2-afb8c0c67fc40e5eb3c1bb4e2d48d690.jpg",
+    "tags": "tag1"
+  }
+]
