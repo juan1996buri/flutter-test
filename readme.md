@@ -4,8 +4,9 @@
 [![Alt text](https://firebasestorage.googleapis.com/v0/b/magicimageai-4k-faceswapai.appspot.com/o/imagen_2024-03-27_154730862.png?alt=media&token=cfb806db-d4af-4878-bb4d-eb0e0fe63153)](https://www.youtube.com/shorts/U3JxlSUR-wI)
 
 
-
-
+#usado
+Flutter 3.19.1
+Dart 3.3.0 • DevTools 2.31.1
 
 # Prueba técnica para Desarrolladores Front-End Juniors - Limbo
 
